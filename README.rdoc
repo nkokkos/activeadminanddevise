@@ -1,0 +1,1 @@
+### Simpe 3.2.9 rails app intergrading devise and active_admin
